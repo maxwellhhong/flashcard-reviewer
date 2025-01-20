@@ -1,0 +1,11 @@
+10 2 0 1
+First Amendment|Freedom of Religion, Speech, Press, Assembly, and Petition
+Second Amendment|Right to Bear Arms
+Third Amendment|Quartering of Soldiers
+Fourth Amendment|Search and Seizure
+Fifth Amendment|Grand Jury, Double Jeopardy, Self Incrimination, Due Process, Takings
+Sixth Amendment|Right to Speedy Trial by Jury, Witnesses, Counsel
+Seventh Amendment|Jury Trial in Civil Lawsuits
+Eighth Amendment|Excessive Fines, Cruel and Unusual Punishment
+Nineth Amendment|Non-Enumerated Rights Retained by People
+Tenth Amendment|Non-Enumerated Rights Retained by States
