@@ -205,6 +205,5 @@ void FlashcardDeckFormatting() {
                "    3. The number of the \"front\" side, the contents of which will be printed upon [d]raw or [s]how\n"
                "    4. The number of the \"back\" side, the contents of which will be printed upon [s]how.\n\n"
                "The subsequent lines of the file should contain the contents of a corresponding flashcard.\n"
-               "The contents of each side of a flashcard should be separated by the '|' character."<< std::endl; 
-
+               "The contents of each side of a flashcard should be separated by the '|' character."<< std::endl;
 }
