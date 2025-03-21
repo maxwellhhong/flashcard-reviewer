@@ -3,6 +3,7 @@
 
 IntDeck::IntDeck(size_t count) : original_size(count), current_size(count) {
   NumCycleConstructor(count);
+  srand(time(NULL));
 }
 
 IntDeck::~IntDeck() {
