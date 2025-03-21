@@ -6,6 +6,7 @@
 #include <stdexcept>
 #include <cstdlib>
 #include <iostream>
+#include <ctime>
 
 class IntDeck {
 public:
